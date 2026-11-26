@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SugorokuServer.vcxproj" />
+  <Project Path="SugorokuServer.vcxproj" Id="5543a8c1-2b35-4495-b3e7-62cfa103352c" />
 </Solution>
